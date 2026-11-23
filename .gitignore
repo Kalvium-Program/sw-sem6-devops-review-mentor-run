@@ -1,2 +1,8 @@
 node_modules/
 .DS_Store
+
+# Local settings and generated output
+.env
+logs/
+coverage/
+tmp/
